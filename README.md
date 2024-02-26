@@ -1,2 +1,2 @@
-# Data-Science-Assignments-
+# Data_Science_Assignments
 Data science beginning project 
